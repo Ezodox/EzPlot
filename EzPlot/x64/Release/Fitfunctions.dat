@@ -1,0 +1,30 @@
+GaussCDF
+A * 1/2 * (1 + scipy.special.erf(1/numpy.sqrt(2.*SD**2) * (x-EV)))
+\frac{A}{2} \cdot \left(1 + \mathrm{erf}\left(\frac{x-\mu}{\sqrt{2\,\sigma^2}}\right)\right)
+A
+\sigma
+\mu
+SkewedGaussPDF
+A * GaussPDF(x, 2, gSD, gEV) * GaussCDF(shape*x, 1, gSD, shape*gEV)
+A \cdot SG(x, \sigma, \mu, shape)
+A
+\sigma
+\mu
+shape
+GaussPDF
+A / numpy.sqrt(2.*numpy.pi*SD**2) * numpy.exp(-(x-EV)**2/(2.*SD**2))
+\frac{A}{ \sqrt{2 \pi \, \sigma^2}} \cdot  \mathrm{exp}\left(\frac{-(x-\mu)^2}{2 \, \sigma^2}\right)
+A
+\sigma
+\mu
+Linear
+A*x+B
+A \cdot x+B
+A
+B
+Quadratic
+A*x**2+B*x+C
+A \cdot x^2+B \cdot x+C
+A
+B
+C

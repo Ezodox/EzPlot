@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EzPlot", "EzPlot.vcxproj", "{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EzPlot Installer", "..\EzPlot Installer\EzPlot Installer.vdproj", "{810D9266-90A2-4DBA-AEB9-FA561F6D4FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Debug|x64.ActiveCfg = Debug|x64
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Debug|x64.Build.0 = Debug|x64
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Debug|x86.Build.0 = Debug|Win32
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Release|x64.ActiveCfg = Release|x64
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Release|x64.Build.0 = Release|x64
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Release|x86.ActiveCfg = Release|Win32
+		{F32D77FD-91D2-4FDF-A36E-55841A34F9D7}.Release|x86.Build.0 = Release|Win32
+		{810D9266-90A2-4DBA-AEB9-FA561F6D4FA0}.Debug|x64.ActiveCfg = Debug
+		{810D9266-90A2-4DBA-AEB9-FA561F6D4FA0}.Debug|x86.ActiveCfg = Debug
+		{810D9266-90A2-4DBA-AEB9-FA561F6D4FA0}.Release|x64.ActiveCfg = Release
+		{810D9266-90A2-4DBA-AEB9-FA561F6D4FA0}.Release|x64.Build.0 = Release
+		{810D9266-90A2-4DBA-AEB9-FA561F6D4FA0}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {282B2374-6B6B-4114-92B4-A95D99FB0A8E}
+	EndGlobalSection
+EndGlobal

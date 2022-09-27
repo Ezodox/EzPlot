@@ -1,0 +1,8 @@
+C:\Users\jyxus\Desktop\VSApps\EzPlot\x64\Release\EzPlot.vcxproj.CopyComplete
+C:\Users\jyxus\Desktop\VSApps\EzPlot\x64\Release\EzPlot.exe
+C:\Users\jyxus\Desktop\VSApps\EzPlot\x64\Release\python310.dll
+C:\Users\jyxus\Desktop\VSApps\EzPlot\x64\Release\zlib1.dll
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Release\EzPlot.vcxproj.CopyComplete
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Release\EzPlot.exe
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Release\python310.dll
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Release\zlib1.dll

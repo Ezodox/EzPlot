@@ -1,0 +1,34 @@
+﻿  App.cpp
+  GUIConsole.cpp
+  MainFrame.cpp
+  PGEditors.cpp
+  PyUtils.cpp
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\PyUtils.cpp(71,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\PyUtils.cpp(78,36): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\PyUtils.cpp(94,35): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\PyUtils.cpp(101,36): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5570 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EzPlot.vcxproj -> C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Release\EzPlot.exe
+  Copy python modules and functions in output directionary
+  C:\Users\jyxus\Desktop\VS Apps\EzPlot\python_modules\plot.py
+  1 Datei(en) kopiert
+  0 Datei(en) kopiert

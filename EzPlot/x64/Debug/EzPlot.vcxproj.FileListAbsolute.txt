@@ -1,0 +1,4 @@
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Debug\EzPlot.vcxproj.CopyComplete
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Debug\EzPlot.exe
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Debug\python310_d.dll
+C:\Users\jyxus\Desktop\VS Apps\EzPlot\x64\Debug\zlibd1.dll
