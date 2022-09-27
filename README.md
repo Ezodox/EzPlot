@@ -8,3 +8,5 @@ After installing python with the downloaded installer from the website above you
 If you install EzPlot with the "EzPlot Installer" windows will pop up a security warning. 
 This is because of a missing license and is no security threat.
 However the installer is not needed, all program files are in the EzPlot folder.
+
+I am not actively working on the project and I did not test it well, so there may be a lot of bugs.
