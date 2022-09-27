@@ -1,5 +1,6 @@
 # EzPlot
 Simple plotting program with the matplotlib library.
+
 You can download the installer and the program folder under Releases.
 
 Python (3.10) is required to use EzPlot.
